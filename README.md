@@ -1,16 +1,13 @@
-### Hi there 👋
+### A fork of mkdir :) 👋
 
-<!--
-**MKdir98/mkdir98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙋About me
 
-Here are some ideas to get you started:
+Mahdi Karami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Mahdi, an active software engineer with a strong interest in the field of LLMs (Large Language Models) and currently working on the AutoGPT project. I have six years of experience in designing, developing, and maintaining backend services that are in production mode, which is my specialty.
+
+
+### 🔥 GitHub Stats
+
+![mkdir98's stats](https://github-readme-stats.vercel.app/api?username=mkdir98&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkdir98&layout=compact&hide=html)
